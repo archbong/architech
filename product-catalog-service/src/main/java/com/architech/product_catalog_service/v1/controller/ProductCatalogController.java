@@ -1,4 +1,4 @@
-package main.java.com.architech.product_catalog_service.v1.controller;
+package com.architech.product_catalog_service.v1.controller;
 
 
 import org.springframework.cloud.client.ServiceInstance;
