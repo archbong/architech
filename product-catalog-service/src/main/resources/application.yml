@@ -1,0 +1,5 @@
+string:
+  application:
+    name: product-catalog-service
+server:
+  port: 8082
